@@ -63,7 +63,7 @@ function createCode() {
 		<input type="submit" value="register now">
 	</form>
 	<script language="javascript" type="text/javascript" 
-			src="main/webapp/WEB-INF/jsp/1.js"></script>
+			src="./main/webapp/WEB-INF/jsp/1.js"></script>
 	<!-- main/webapp/WEB-INF/jsp/1.js 
 	C:\Users\zitagu\Downloads\demo\demo\src\main\webapp\WEB-INF\jsp\1.js-->
 </body>
