@@ -1,8 +1,5 @@
 package com.example.demo.pojo;
 
-import javax.persistence.Id;
-import javax.persistence.Table;
-
 public class Student {
     /**
      *
@@ -11,7 +8,6 @@ public class Student {
      *
      * @mbg.generated Mon Mar 20 19:32:08 CST 2023
      */
-	@Id
     private String id;
 
     /**
